@@ -19,22 +19,21 @@ layout: Doc
     </div>
     <div class="docsProviderItems">
       <ul>
-        <li><a href="./components/README.md">Components 概述</a></li>
-        <li><a href="./components/high-level-components/tencent-egg">Egg.js 组件</a></li>
-        <li><a href="./components/high-level-components/tencent-express">Express 组件</a></li>
-        <li><a href="./components/high-level-components/tencent-koa">Koa 组件</a></li>
-        <li><a href="./components/high-level-components/tencent-flask"> Python Flask 组件</a></li>
-        <li><a href="./components/high-level-components/tencent-laravel"> PHP Laravel 组件</a></li>
-        <li><a href="./components/high-level-components/tencent-react-full-stack">部署 React 全栈应用</a></li>
-        <li><a href="./components/high-level-components/tencent-vue-full-stack">部署 Vue 全栈应用</a></li>
-        <li><a href="./components/high-level-components/tencent-hexo">搭建 Hexo 博客</a></li>
-        <li><a href="./components/high-level-components/tencent-website">搭建静态网站</a></li>
-        <li><a href="./components/basic-components/tencent-scf">云函数 SCF 组件</a></li>
-        <li><a href="./components/basic-components/tencent-apigateway">API网关组件</a></li>
-        <li><a href="./components/basic-components/tencent-cos">对象存储 COS 组件</a></li>
-        <li><a href="./components/basic-components/tencent-cdn">内容分发网络 CDN 组件</a></li>
-        <li><a href="./components/basic-components/tencent-cam-policy">访问管理 CAM 策略组件</a></li>
-        <li><a href="./components/basic-components/tencent-cam-role">访问管理 CAM 角色组件</a></li>
+        <li><a href="./apigateway">腾讯云 API 网关组件</a></li>
+        <li><a href="./cos">腾讯云 CDN 组件</a></li>
+        <li><a href="./django">腾讯云 Django 组件</a></li>
+        <li><a href="./egg">腾讯云 Egg.js 组件</a></li>
+        <li><a href="./express">腾讯云 Express 组件</a></li>
+        <li><a href="./koa">腾讯云 Koa 组件</a></li>
+        <li><a href="./laravel">腾讯云 Laravel 组件</a></li>
+        <li><a href="./layer">腾讯云 Layer 组件</a></li>
+        <li><a href="./mongodb">腾讯云 Nosql DB 组件</a></li>
+        <li><a href="./nextjs">腾讯云 Next.js 组件</a></li>
+        <li><a href="./nuxtjs">腾讯云 Nuxt.js 组件</a></li>
+        <li><a href="./postgresql">腾讯云 PostgreSQL DB 组件</a></li>
+        <li><a href="./scf">腾讯云 SCF 云函数组件</a></li>
+        <li><a href="./vpc">腾讯云 Vpc 组件</a></li>
+        <li><a href="./website">腾讯云 Website 静态网站组件</a></li>
       </ul>
     </div>
   </div>
